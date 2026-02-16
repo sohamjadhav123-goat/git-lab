@@ -3,3 +3,4 @@ Second line
 Feature code
 Main branch line
 Feature branch line
+Main change for KDiff
